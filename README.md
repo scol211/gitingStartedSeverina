@@ -1,1 +1,3 @@
 # gitingStartedSeverina
+
+## Kia ora Everyone
